@@ -34,7 +34,7 @@ The application uses a `Bank_Manager` class to manage multiple bank accounts and
 
 1. Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/Bank-Management-System.git
+    git clone https://github.com/jeevaravichandran/Bank_Management_System.git
     ```
 2. Open the project in your preferred Java IDE (e.g., Eclipse, IntelliJ IDEA).
 3. Run the `Bank_Application_Form` class to start the application.
@@ -76,7 +76,7 @@ This project showcases:
 
 ## Author
 
-- **Your Name**: Aspiring Full Stack Developer with a passion for solving problems using technology.
+- Jeeva Ravichandran: Aspiring Java Developer with a passion for solving problems using technology.
 
 ## License
 
