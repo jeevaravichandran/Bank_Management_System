@@ -78,8 +78,3 @@ This project showcases:
 
 - Jeeva Ravichandran: Aspiring Java Developer with a passion for solving problems using technology.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
